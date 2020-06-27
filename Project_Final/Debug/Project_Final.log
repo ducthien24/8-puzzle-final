@@ -1,0 +1,8 @@
+﻿  Project_Final.cpp
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(37,2): warning C4091: 'typedef ': ignored on left of 'NodeList' when no variable is declared
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(513,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(1088,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(197): warning C4715: 'reverseAction': not all control paths return a value
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(521): warning C4715: 'find0ofpath': not all control paths return a value
+C:\Users\User\source\repos\Win + AL\Project_Final\Project_Final\Project_Final.cpp(700): warning C4715: 'findPos0': not all control paths return a value
+  Project_Final.vcxproj -> C:\Users\User\source\repos\Win + AL\Project_Final\Debug\Project_Final.exe
